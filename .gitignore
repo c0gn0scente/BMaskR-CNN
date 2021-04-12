@@ -4,10 +4,10 @@ instant_test_output
 inference_test_output
 
 
-*.jpg
+#*.jpg
 *.png
 *.txt
-*.json
+#*.json
 *.diff
 
 # compilation and distribution
@@ -43,5 +43,6 @@ wheels/
 # project dirs
 /detectron2/model_zoo/configs
 /datasets
+#/projects/*/datasets
 /models
 .DS_Storm
