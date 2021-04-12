@@ -44,4 +44,4 @@ wheels/
 /detectron2/model_zoo/configs
 /datasets
 /models
-.DS_Store
+.DS_Storm
